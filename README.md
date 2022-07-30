@@ -1,1 +1,1 @@
-# DESCARGAR-INFORMACION-DE-UNA-COMPUTADORA-USANDO-UN-ARDUINO
+# Descargar informacion de una computadora usando un arduiuno 
