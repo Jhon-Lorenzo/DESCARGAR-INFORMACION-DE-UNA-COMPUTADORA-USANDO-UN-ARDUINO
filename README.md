@@ -46,8 +46,12 @@ https://user-images.githubusercontent.com/110279489/182007205-d9f63533-c1d5-4bbf
 ![ubun](https://user-images.githubusercontent.com/110279489/182007324-9a2a2a16-6d18-4e45-887c-6889d48c0f05.png)
 
 
+
+
+
+
 * Nombre: [ Jhon Adelmo Lorenzo Ccancce ](https://github.com/Jhon-Lorenzo).
 * Código: 20220443C.
 * Universidad: Universidad Nacional de Ingeniería.
 * Facultad: Facultad de Ciencias.
-* Carrera: Ciencias de la computación.
+* Carrera: Ciencia de la computación.
