@@ -13,5 +13,8 @@ Todo ello lo puede ver detallado en: https://drive.google.com/file/d/1uZMlnOUeKY
 
 # 🛠️ Ejecución
 •Primero activamos el servidor de ngrok
-[Grabacion_de_pantalla_desde_30-07-22_194004.webm](https://user-images.githubusercontent.com/110279489/182005446-f37bf409-6a9b-45e0-afbb-d7de28be8333.webm)
+
+
+
+https://user-images.githubusercontent.com/110279489/182005760-5a6d0e5d-11be-4158-8b39-29712ec350cc.mp4
 
