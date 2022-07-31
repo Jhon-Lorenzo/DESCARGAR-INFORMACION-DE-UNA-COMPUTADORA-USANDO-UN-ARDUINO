@@ -24,4 +24,8 @@ https://user-images.githubusercontent.com/110279489/182005760-5a6d0e5d-11be-4158
 https://user-images.githubusercontent.com/110279489/182006102-29b9f738-5a25-4e6d-acd7-4236727d2bb8.mp4
 
 
-•Y por ultimo ejecutamos el codigo
+•luego ejecutamos el codigo cuando conectamos el arduino a la computadora con windows
+
+https://user-images.githubusercontent.com/110279489/182007205-d9f63533-c1d5-4bbf-aeb2-4b7a18f1a344.mp4
+
+
