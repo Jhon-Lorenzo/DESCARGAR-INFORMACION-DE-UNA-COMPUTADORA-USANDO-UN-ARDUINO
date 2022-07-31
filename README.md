@@ -5,24 +5,11 @@ Todo ello lo puede ver detallado en: https://drive.google.com/file/d/1uZMlnOUeKY
 
 
 # ✒️Requisitos
-• Un arduino UNO con el firmware modificado para que acepte la funcion HID
-
-
-
-
-• Una pc con sistema operativo Linux y acceso a internet
-
-
-
-• Conocimientos basicos en lenguaje de programación C++
-
-
-
-• Programa arduino IDE
-
-
-
-• Una pc con sistema operativo Windows para testear el arduino
+* Un arduino UNO con el firmware modificado para que acepte la funcion HID
+* Una pc con sistema operativo Linux y acceso a internet
+* Conocimientos basicos en lenguaje de programación C++
+* Programa arduino IDE
+* Una pc con sistema operativo Windows para testear el arduino
 
 # 🛠️ Ejecución
 • Primero activamos el servidor de ngrok
