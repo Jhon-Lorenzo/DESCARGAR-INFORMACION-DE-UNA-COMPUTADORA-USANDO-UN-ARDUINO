@@ -13,7 +13,11 @@ Todo ello lo puede ver detallado en: https://drive.google.com/file/d/1uZMlnOUeKY
 
 # 🛠️ Ejecución
 • Primero activamos el servidor de ngrok
+
+
 https://user-images.githubusercontent.com/110279489/182005760-5a6d0e5d-11be-4158-8b39-29712ec350cc.mp4
+
+
 
 • Despues colocamos el puerto en el código y lo cargamos en el arduino 
 
