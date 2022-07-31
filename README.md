@@ -1,5 +1,5 @@
 # Descargar informacion de una computadora usando un arduiuno 
-# 📜 Resumen 
+# 📜 Abstract 
 Modificar un arduino UNO para que funcione como dispositivo HID, y con ello hacer que funcione como teclado,con ello crear un codigo para poder descargar informacion de una computadora y poder enviarla atravez de un servidor en ngrok.
 Todo ello lo puede ver detallado en: https://drive.google.com/file/d/1uZMlnOUeKY9lnHj2pL3fSf6tQw8vY9aA/view?usp=sharing.
 
